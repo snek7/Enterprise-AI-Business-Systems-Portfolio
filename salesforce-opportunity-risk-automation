@@ -1,0 +1,63 @@
+# Salesforce Opportunity Risk Assessment Automation
+
+## Project Overview
+
+This project demonstrates a Salesforce Flow-based automation solution for identifying high-risk sales opportunities.
+
+## Business Problem
+
+Organizations often review high-discount deals manually, which can be time-consuming and inconsistent.
+
+## Solution
+
+A Record-Triggered Flow automatically evaluates Opportunity Discount Percentage.
+
+Business Rule:
+
+- Discount > 20%
+    - AI Risk Score = High
+    - Approval Required = True
+
+## Salesforce Components Used
+
+- Opportunity Object
+- Custom Fields
+- Record Triggered Flow
+- Flow Decision Element
+- Update Records Element
+
+## Custom Fields
+
+- Discount %
+- AI Risk Score
+- Approval Required
+- AI Summary
+- AI Recommendation
+
+## Flow Logic
+
+Opportunity Updated
+    ↓
+Check Discount Risk
+    ↓
+Discount > 20%
+    ↓
+Set Risk Score = High
+    ↓
+Set Approval Required = True
+
+## Business Benefits
+
+- Reduced manual review effort
+- Improved sales governance
+- Faster approval process
+- Consistent risk assessment
+
+## Screenshots
+
+Add screenshots here.
+
+## Author
+
+Snehal Kasture
+MBA Business Analytics
