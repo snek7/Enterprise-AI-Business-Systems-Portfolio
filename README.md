@@ -43,4 +43,6 @@ Requirements gathering, process mapping, stakeholder communication, Agile delive
 
 ## Areas of Interest
 
-I am particularly interested in how AI copilots, intelligent workflow orchestration, CRM systems, analytics, and enterprise automation can improve productivity and business outcomes.
+My focus is to bridge business operations, enterprise systems, analytics, and AI-enabled workflow automation to improve productivity, reporting visibility, and operational efficiency.
+
+I am especially interested in how modern enterprise teams can use AI copilots, intelligent workflow orchestration, CRM systems, and analytics to support better business decisions.
