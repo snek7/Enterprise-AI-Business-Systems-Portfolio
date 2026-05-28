@@ -1,0 +1,19 @@
+# Salesforce Opportunity Risk Assessment Automation
+
+## Overview
+Built a Salesforce Record-Triggered Flow that automatically identifies high-risk sales opportunities.
+
+## Business Rule
+- Discount > 20%
+- AI Risk Score = High
+- Approval Required = True
+
+## Components Used
+- Opportunity Object
+- Custom Fields
+- Salesforce Flow
+- Decision Element
+- Update Records Element
+
+## Result
+When a sales opportunity exceeds the discount threshold, Salesforce automatically flags it as high risk and requires approval.
